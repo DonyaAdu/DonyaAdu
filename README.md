@@ -1,16 +1,36 @@
-## Hi there 👋
+# Donya 👋
 
-<!--
-**DonyaAdu/DonyaAdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- Learning and improving in web development  
+- Focused on building practical real-world skills  
+- Interested in creating clean and modern websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+## 🚀 Current Focus
+- Improving front-end skills  
+- Building small learning projects  
+- Understanding UI & modern web design basics  
+
+---
+
+## 🌟 Skills
+- Fast learner  
+- Problem solving mindset  
+- Creativity in design  
+- Attention to detail  
+- Self-motivation and consistency  
+
+---
+
+## 📫 Contact
+- Email: Donyaasadi2022@gmail.com
